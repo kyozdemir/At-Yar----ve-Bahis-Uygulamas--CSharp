@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AtBahisModelStoreContainer" CdmEntityContainer="AtBahisEntities">
+    <EntitySetMapping Name="AtBilgisi">
+      <EntityTypeMapping TypeName="AtBahisModel.AtBilgisi">
+        <MappingFragment StoreEntitySet="AtBilgisi">
+          <ScalarProperty Name="AtID" ColumnName="AtID" />
+          <ScalarProperty Name="AtAdi" ColumnName="AtAdi" />
+          <ScalarProperty Name="AnaAdi" ColumnName="AnaAdi" />
+          <ScalarProperty Name="BabaAdi" ColumnName="BabaAdi" />
+          <ScalarProperty Name="Ganyan" ColumnName="Ganyan" />
+          <ScalarProperty Name="Irk" ColumnName="Irk" />
+          <ScalarProperty Name="AktifMi" ColumnName="AktifMi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BahisTipleri">
+      <EntityTypeMapping TypeName="AtBahisModel.BahisTipleri">
+        <MappingFragment StoreEntitySet="BahisTipleri">
+          <ScalarProperty Name="BahisTipiID" ColumnName="BahisTipiID" />
+          <ScalarProperty Name="BahisAdi" ColumnName="BahisAdi" />
+          <ScalarProperty Name="BahisAciklamasi" ColumnName="BahisAciklamasi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hipodrom">
+      <EntityTypeMapping TypeName="AtBahisModel.Hipodrom">
+        <MappingFragment StoreEntitySet="Hipodrom">
+          <ScalarProperty Name="HipodromID" ColumnName="HipodromID" />
+          <ScalarProperty Name="HipodromAdi" ColumnName="HipodromAdi" />
+          <ScalarProperty Name="SehirID" ColumnName="SehirID" />
+          <ScalarProperty Name="IlceID" ColumnName="IlceID" />
+          <ScalarProperty Name="CimPistSayisi" ColumnName="CimPistSayisi" />
+          <ScalarProperty Name="KumPistSayisi" ColumnName="KumPistSayisi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sonuc">
+      <EntityTypeMapping TypeName="AtBahisModel.Sonuc">
+        <MappingFragment StoreEntitySet="Sonuc">
+          <ScalarProperty Name="atNo" ColumnName="atNo" />
+          <ScalarProperty Name="Siralama" ColumnName="Siralama" />
+          <ScalarProperty Name="SonucID" ColumnName="SonucID" />
+          <ScalarProperty Name="HipodromID" ColumnName="HipodromID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="KosuID" ColumnName="KosuID" />
+          <ScalarProperty Name="AtID" ColumnName="AtID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="AtBahisModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bulten">
+      <EntityTypeMapping TypeName="AtBahisModel.Bulten">
+        <MappingFragment StoreEntitySet="Bulten">
+          <ScalarProperty Name="AtAdi" ColumnName="AtAdi" />
+          <ScalarProperty Name="BaslangicSaati" ColumnName="BaslangicSaati" />
+          <ScalarProperty Name="YarisacakAtSayisi" ColumnName="YarisacakAtSayisi" />
+          <ScalarProperty Name="PistTipi" ColumnName="PistTipi" />
+          <ScalarProperty Name="AtID" ColumnName="AtID" />
+          <ScalarProperty Name="Sira" ColumnName="Sira" />
+          <ScalarProperty Name="KosuAdi" ColumnName="KosuAdi" />
+          <ScalarProperty Name="KosuID" ColumnName="KosuID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="HipodromID" ColumnName="HipodromID" />
+          <ScalarProperty Name="BultenID" ColumnName="BultenID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kupon">
+      <EntityTypeMapping TypeName="AtBahisModel.Kupon">
+        <MappingFragment StoreEntitySet="Kupon">
+          <ScalarProperty Name="KosuID" ColumnName="KosuID" />
+          <ScalarProperty Name="KuponDurumu" ColumnName="KuponDurumu" />
+          <ScalarProperty Name="Tutar" ColumnName="Tutar" />
+          <ScalarProperty Name="Misli" ColumnName="Misli" />
+          <ScalarProperty Name="Ganyan" ColumnName="Ganyan" />
+          <ScalarProperty Name="Tahmin" ColumnName="Tahmin" />
+          <ScalarProperty Name="BahisTipiID" ColumnName="BahisTipiID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="HipodromID" ColumnName="HipodromID" />
+          <ScalarProperty Name="KuponNo" ColumnName="KuponNo" />
+          <ScalarProperty Name="KuponID" ColumnName="KuponID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

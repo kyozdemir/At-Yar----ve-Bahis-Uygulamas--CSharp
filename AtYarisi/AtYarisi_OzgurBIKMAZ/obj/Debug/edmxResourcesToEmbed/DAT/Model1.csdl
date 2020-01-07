@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AtBahisModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AtBilgisi">
+    <Key>
+      <PropertyRef Name="AtID" />
+    </Key>
+    <Property Name="AtID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AtAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AnaAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="BabaAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Ganyan" Type="Double" Nullable="false" />
+    <Property Name="Irk" Type="Int32" Nullable="false" />
+    <Property Name="AktifMi" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Bulten" Relationship="Self.FK_Bulten_AtBilgisi" FromRole="AtBilgisi" ToRole="Bulten" />
+    <NavigationProperty Name="Sonuc" Relationship="Self.FK_Sonuc_AtBilgisi" FromRole="AtBilgisi" ToRole="Sonuc" />
+  </EntityType>
+  <EntityType Name="BahisTipleri">
+    <Key>
+      <PropertyRef Name="BahisTipiID" />
+    </Key>
+    <Property Name="BahisTipiID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BahisAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BahisAciklamasi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Kupon" Relationship="Self.FK_Kupon_BahisTipleri" FromRole="BahisTipleri" ToRole="Kupon" />
+  </EntityType>
+  <EntityType Name="Bulten">
+    <Key>
+      <PropertyRef Name="BultenID" />
+    </Key>
+    <Property Name="BultenID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HipodromID" Type="Int32" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="KosuID" Type="Int32" Nullable="false" />
+    <Property Name="KosuAdi" Type="Int32" />
+    <Property Name="Sira" Type="Int32" Nullable="false" />
+    <Property Name="AtID" Type="Int32" Nullable="false" />
+    <Property Name="PistTipi" Type="Boolean" Nullable="false" />
+    <Property Name="YarisacakAtSayisi" Type="Int32" Nullable="false" />
+    <Property Name="BaslangicSaati" Type="Time" Precision="7" />
+    <Property Name="AtAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AtBilgisi" Relationship="Self.FK_Bulten_AtBilgisi" FromRole="Bulten" ToRole="AtBilgisi" />
+    <NavigationProperty Name="Hipodrom" Relationship="Self.FK_Bulten_Hipodrom" FromRole="Bulten" ToRole="Hipodrom" />
+  </EntityType>
+  <EntityType Name="Hipodrom">
+    <Key>
+      <PropertyRef Name="HipodromID" />
+    </Key>
+    <Property Name="HipodromID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HipodromAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SehirID" Type="Int32" Nullable="false" />
+    <Property Name="IlceID" Type="Int32" Nullable="false" />
+    <Property Name="CimPistSayisi" Type="Int32" />
+    <Property Name="KumPistSayisi" Type="Int32" />
+    <NavigationProperty Name="Bulten" Relationship="Self.FK_Bulten_Hipodrom" FromRole="Hipodrom" ToRole="Bulten" />
+    <NavigationProperty Name="Kupon" Relationship="Self.FK_Kupon_Hipodrom" FromRole="Hipodrom" ToRole="Kupon" />
+  </EntityType>
+  <EntityType Name="Kupon">
+    <Key>
+      <PropertyRef Name="KuponID" />
+    </Key>
+    <Property Name="KuponID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KuponNo" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="HipodromID" Type="Int32" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="BahisTipiID" Type="Int32" Nullable="false" />
+    <Property Name="KosuID" Type="Int32" Nullable="false" />
+    <Property Name="Tahmin" Type="Int32" />
+    <Property Name="Ganyan" Type="Double" Nullable="false" />
+    <Property Name="Misli" Type="Int32" Nullable="false" />
+    <Property Name="Tutar" Type="Double" Nullable="false" />
+    <Property Name="KuponDurumu" Type="Boolean" />
+    <NavigationProperty Name="BahisTipleri" Relationship="Self.FK_Kupon_BahisTipleri" FromRole="Kupon" ToRole="BahisTipleri" />
+    <NavigationProperty Name="Hipodrom" Relationship="Self.FK_Kupon_Hipodrom" FromRole="Kupon" ToRole="Hipodrom" />
+  </EntityType>
+  <EntityType Name="Sonuc">
+    <Key>
+      <PropertyRef Name="SonucID" />
+    </Key>
+    <Property Name="SonucID" Type="Int32" Nullable="false" />
+    <Property Name="HipodromID" Type="Int32" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="KosuID" Type="Int32" Nullable="false" />
+    <Property Name="AtID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="AtBilgisi" Relationship="Self.FK_Sonuc_AtBilgisi" FromRole="Sonuc" ToRole="AtBilgisi" />
+    <Property Name="Siralama" Type="Int32" Nullable="false" />
+    <Property Name="atNo" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Bulten_AtBilgisi">
+    <End Role="AtBilgisi" Type="Self.AtBilgisi" Multiplicity="1" />
+    <End Role="Bulten" Type="Self.Bulten" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AtBilgisi">
+        <PropertyRef Name="AtID" />
+      </Principal>
+      <Dependent Role="Bulten">
+        <PropertyRef Name="AtID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sonuc_AtBilgisi">
+    <End Role="AtBilgisi" Type="Self.AtBilgisi" Multiplicity="1" />
+    <End Role="Sonuc" Type="Self.Sonuc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AtBilgisi">
+        <PropertyRef Name="AtID" />
+      </Principal>
+      <Dependent Role="Sonuc">
+        <PropertyRef Name="AtID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kupon_BahisTipleri">
+    <End Role="BahisTipleri" Type="Self.BahisTipleri" Multiplicity="1" />
+    <End Role="Kupon" Type="Self.Kupon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BahisTipleri">
+        <PropertyRef Name="BahisTipiID" />
+      </Principal>
+      <Dependent Role="Kupon">
+        <PropertyRef Name="BahisTipiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Bulten_Hipodrom">
+    <End Role="Hipodrom" Type="Self.Hipodrom" Multiplicity="1" />
+    <End Role="Bulten" Type="Self.Bulten" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hipodrom">
+        <PropertyRef Name="HipodromID" />
+      </Principal>
+      <Dependent Role="Bulten">
+        <PropertyRef Name="HipodromID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kupon_Hipodrom">
+    <End Role="Hipodrom" Type="Self.Hipodrom" Multiplicity="1" />
+    <End Role="Kupon" Type="Self.Kupon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hipodrom">
+        <PropertyRef Name="HipodromID" />
+      </Principal>
+      <Dependent Role="Kupon">
+        <PropertyRef Name="HipodromID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AtBahisEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AtBilgisi" EntityType="Self.AtBilgisi" />
+    <EntitySet Name="BahisTipleri" EntityType="Self.BahisTipleri" />
+    <EntitySet Name="Bulten" EntityType="Self.Bulten" />
+    <EntitySet Name="Hipodrom" EntityType="Self.Hipodrom" />
+    <EntitySet Name="Kupon" EntityType="Self.Kupon" />
+    <EntitySet Name="Sonuc" EntityType="Self.Sonuc" />
+    <AssociationSet Name="FK_Bulten_AtBilgisi" Association="Self.FK_Bulten_AtBilgisi">
+      <End Role="AtBilgisi" EntitySet="AtBilgisi" />
+      <End Role="Bulten" EntitySet="Bulten" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sonuc_AtBilgisi" Association="Self.FK_Sonuc_AtBilgisi">
+      <End Role="AtBilgisi" EntitySet="AtBilgisi" />
+      <End Role="Sonuc" EntitySet="Sonuc" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kupon_BahisTipleri" Association="Self.FK_Kupon_BahisTipleri">
+      <End Role="BahisTipleri" EntitySet="BahisTipleri" />
+      <End Role="Kupon" EntitySet="Kupon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Bulten_Hipodrom" Association="Self.FK_Bulten_Hipodrom">
+      <End Role="Hipodrom" EntitySet="Hipodrom" />
+      <End Role="Bulten" EntitySet="Bulten" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kupon_Hipodrom" Association="Self.FK_Kupon_Hipodrom">
+      <End Role="Hipodrom" EntitySet="Hipodrom" />
+      <End Role="Kupon" EntitySet="Kupon" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

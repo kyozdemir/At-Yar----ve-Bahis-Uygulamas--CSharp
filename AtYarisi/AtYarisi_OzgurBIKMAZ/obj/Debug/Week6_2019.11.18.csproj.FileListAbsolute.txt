@@ -1,0 +1,52 @@
+C:\C# WorkSpace\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe.config
+C:\C# WorkSpace\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe
+C:\C# WorkSpace\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.pdb
+C:\C# WorkSpace\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csprojAssemblyReference.cache
+C:\C# WorkSpace\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Form1.resources
+C:\C# WorkSpace\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Properties.Resources.resources
+C:\C# WorkSpace\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csproj.GenerateResource.cache
+C:\C# WorkSpace\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.exe
+C:\C# WorkSpace\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.pdb
+E:\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe.config
+E:\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe
+E:\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.pdb
+E:\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csprojAssemblyReference.cache
+E:\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Properties.Resources.resources
+E:\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csproj.GenerateResource.cache
+E:\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.exe
+E:\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.pdb
+E:\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.AtYarisi.resources
+E:\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.KuponOyna.resources
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe.config
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.pdb
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csprojAssemblyReference.cache
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.AtYarisi.resources
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Properties.Resources.resources
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csproj.GenerateResource.cache
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.exe
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.pdb
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Kupon.resources
+C:\Users\Özgür\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.KuponSonuc.resources
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe.config
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.pdb
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.AtYarisi.resources
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Kupon.resources
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.KuponSonuc.resources
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Properties.Resources.resources
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.exe
+C:\Users\Section1\Desktop\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.pdb
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe.config
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.pdb
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csprojAssemblyReference.cache
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.AtYarisi.resources
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Kupon.resources
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.KuponSonuc.resources
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Properties.Resources.resources
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.csproj.GenerateResource.cache
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.exe
+G:\Yeni klasör\Week6_2019.11.18\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.pdb

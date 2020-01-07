@@ -1,0 +1,99 @@
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\obj\Debug\AtYarisi.csprojAssemblyReference.cache
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\obj\Debug\AtYarisi.AtYarisi.resources
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\obj\Debug\Week6_2019._11._18.Properties.Resources.resources
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.exe
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\obj\Debug\Week6_2019.11.18.pdb
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\obj\Debug\AtYarisi.Kupon.resources
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\obj\Debug\AtYarisi.KuponSonuc.resources
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe.config
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.exe
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\Week6_2019.11.18\bin\Debug\Week6_2019.11.18.pdb
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe.config
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.pdb
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csprojAssemblyReference.cache
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.AtYarisi.resources
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.Kupon.resources
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.KuponSonuc.resources
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.Properties.Resources.resources
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.exe
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.pdb
+D:\C#Projects\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.YarisSonuc.resources
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe.config
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.pdb
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csprojAssemblyReference.cache
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.AtYarisi.resources
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.Kupon.resources
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.KuponSonuc.resources
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.Properties.Resources.resources
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.YarisSonuc.resources
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.exe
+D:\C# PROJELERİ\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.pdb
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe.config
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.pdb
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.AtYarisi.resources
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.Kupon.resources
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.KuponSonuc.resources
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.Properties.Resources.resources
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.YarisSonuc.resources
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.exe
+C:\Users\Wissen\Desktop\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.pdb
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.AtYarisi.resources
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.Kupon.resources
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.KuponSonuc.resources
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.Properties.Resources.resources
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.YarisSonuc.resources
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.exe
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.pdb
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe.config
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.pdb
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\atkosukopya\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.CopyComplete
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe.config
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.pdb
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.dll
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.SqlServer.dll
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.xml
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.SqlServer.xml
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csprojAssemblyReference.cache
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.AtYarisi.resources
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.Kupon.resources
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.KuponSonuc.resources
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.Properties.Resources.resources
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.YarisSonuc.resources
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.CopyComplete
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.exe
+D:\AtYarisi_OzgurBIKMAZ\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.pdb
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe.config
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.exe
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\bin\Debug\AtYarisi_OzgurBIKMAZ.pdb
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.dll
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.SqlServer.dll
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.xml
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\bin\Debug\EntityFramework.SqlServer.xml
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csprojAssemblyReference.cache
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.AtYarisi.resources
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.Kupon.resources
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.KuponSonuc.resources
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.Properties.Resources.resources
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.YarisSonuc.resources
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.GenerateResource.cache
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.CoreCompileInputs.cache
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi.csproj.CopyComplete
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.exe
+E:\AtYarisi\AtYarisi_OzgurBIKMAZ\obj\Debug\AtYarisi_OzgurBIKMAZ.pdb
